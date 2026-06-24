@@ -1,0 +1,22 @@
+# Maven target directory
+/target/
+
+# IDEA files
+*.iml
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.class
+
+# Spring Boot launch files
+spring.log
